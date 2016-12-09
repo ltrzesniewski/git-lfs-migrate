@@ -1,5 +1,9 @@
 # Changes
 
+## 0.2.5
+
+ * Replace `-crlf` by `-text` .gitattributes (#25, thanks to @leth).
+
 ## 0.2.4
 
  * Fix non-suffix pattern matching (#20, thanks to @wesyq).
